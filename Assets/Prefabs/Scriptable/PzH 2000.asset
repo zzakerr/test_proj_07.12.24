@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98c187d458e1d784ea0a7c8723de9dac, type: 3}
+  m_Name: PzH 2000
+  m_EditorClassIdentifier: 
+  nameObj: PzH 2000
+  type: 1
+  preview: {fileID: 21300000, guid: b5c735593881e184585d03ddc5fe1a12, type: 3}
+  prefab: {fileID: 8970788888831230480, guid: a92ed849b9c4aab47a1a3b3d99a1ebb8, type: 3}
